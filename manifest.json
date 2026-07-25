@@ -1,0 +1,30 @@
+{
+    "format_version":  2,
+    "header":  {
+                   "description":  "Advanced Java-style F3 Debug Menu By ZenXveda",
+                   "name":  "Debug Screen Pro",
+                   "uuid":  "93da41ae-f6c0-4b45-8832-ca7f4ef23e23",
+                   "version":  [
+                                   1,
+                                   0,
+                                   3
+                               ],
+                   "min_engine_version":  [
+                                              1,
+                                              20,
+                                              0
+                                          ]
+               },
+    "modules":  [
+                    {
+                        "description":  "Debug Screen Pro UI",
+                        "type":  "resources",
+                        "uuid":  "eef61802-7aa2-47c7-b455-0cd00d3e5cd2",
+                        "version":  [
+                                        1,
+                                        0,
+                                        3
+                                    ]
+                    }
+                ]
+}
